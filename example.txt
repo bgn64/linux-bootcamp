@@ -6,4 +6,4 @@ earlier commit. Instead of having to rewrite his entire project, he was
 able to just restart the buggy feature.
 
 
-write an ending here
+He hated himself for having to learn to do something new and original instead of working on his homework.
